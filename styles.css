@@ -1,0 +1,68 @@
+/* font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive; */
+
+body {
+    background-color: #6EBF8B;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+    color: #D82148;
+    text-shadow: 5px 0 #232931;
+    margin: 2% 2% 0% 2%;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    color: #D82148;
+    text-shadow: 3px 0 #819fc7;
+    margin: 5% 2% 0% 2%;
+}
+
+
+h3 {
+    font-family: 'Lobster', cursive;
+    color: #151D3B;
+}
+
+p {
+    font-size: 2rem;
+    color: #151D3B;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 900;
+    margin: 4%;
+  }
+
+img {
+    width: 75%;
+}
+
+.container {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;  
+}
+
+
+/* .winner {
+    font-size: 5rem;
+    color: #151D3B;
+} */
+
+.footer {
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.footer p {
+    color: #EEEEEE;
+    font-size: 1rem;
+}
